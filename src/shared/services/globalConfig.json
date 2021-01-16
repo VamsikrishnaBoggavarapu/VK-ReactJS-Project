@@ -1,0 +1,9 @@
+{
+    "headers":{
+
+    },
+    
+    "gateWayUrls":{
+        "users":"/vk/users"
+    }
+}
